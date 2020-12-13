@@ -1,0 +1,55 @@
+body
+{
+  font-family: Arial;
+  background-image: url(FON.jpg);
+  color:white;
+}
+#flex-container
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex-center
+{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.x
+{
+  margin-right: 70px;
+}
+.y
+{
+  margin-left: 70px;
+}
+.Kost1
+{
+  width: 200px;
+  height: 200px;
+  margin-right: 60px;
+}
+.Kost2
+{
+  width: 200px;
+  height: 200px;
+}
+.Kost3
+{
+  font-weight: bold;
+  font-size: 28px;
+  width: 300px;
+  height: 40px;
+  margin-top: 20px;
+}
+A {
+    color: white;
+    text-decoration: none;
+   }
+   A:visited {
+    color: white;
+   }
+   A:active {
+    color: blue;
+   }
